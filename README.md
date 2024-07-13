@@ -3,11 +3,14 @@
 Welcome to The Sparks Foundation Donation Website! This project was developed during my internship at The Sparks Foundation. The website facilitates donations through a user-friendly interface and integrates the Razorpay payment gateway for seamless transactions.
 
 ## Table of Contents
+- [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
+
+## Demo
+Check out the live video demo <a href="https://www.linkedin.com/posts/tushark1309_task3-gripjanuary23-gripjan23-activity-7021890571027853313-lRPR?utm_source=share&utm_medium=member_desktop" style="cursor:pointer;">here.</a>
 
 ## Features
 - Developed a frontend donation website using HTML, CSS, JavaScript, and Node.js
@@ -46,13 +49,3 @@ To run this project locally, follow these steps:
 3. Click on the 'Donate Now' button to make a donation.
 4. Complete the payment using the Razorpay payment gateway.
 5. Upon successful payment, receive a confirmation message.
-
-## Screenshots
-### Homepage
-![Homepage](path/to/homepage-screenshot.jpg)
-
-### Donation Page
-![Donation Page](path/to/donation-page-screenshot.jpg)
-
-### Payment Gateway
-![Payment Gateway](path/to/payment-gateway-screenshot.jpg)
